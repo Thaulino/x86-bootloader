@@ -18,6 +18,9 @@ Install QEMU emulator in Linux
 $ sudo apt-get install qemu-system-x86
 ```
 
+Hint: Press ctl+a. x to quit qemu
+
+
 Install assembler
 ```
 $ sudo apt-get install nasm
