@@ -18,6 +18,12 @@ Install QEMU emulator in Linux
 $ sudo apt-get install qemu-system-x86
 ```
 
+Install assembler
+```
+$ sudo apt-get install nasm
+```
+
+
 Run the following commands or run make command 
 
 ![](https://github.com/chuang76/x86-bootloader/blob/main/figure/demo-1.PNG?raw=true)
