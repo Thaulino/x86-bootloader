@@ -1,7 +1,10 @@
 
 # binary files
-*.bin
+*.bin 
+*.elf
 
 # object files
 *.o
 
+# debug files
+*.debug
